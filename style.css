@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 100%);
+}
+.col-md-6
+{
+    background-image: linear-gradient(to bottom, #fbc2eb 0%, #a6c1ee 100%);
+    /* border: 3px solid black; */
+    border-radius:5px;
+    margin-top: 170px !important;
+
+}
+input[type=button]
+{
+    width: 100%;
+    background-color: blueviolet;
+    font-weight: bolder;
+    border-radius: 1px;
+    color: white;
+    border: 3px solid black;
+
+
+}
+input[type=button]:hover{
+    background-color: rgb(162, 96, 224);
+    padding: 2px;
+}
+input[type=text]
+{
+    width: 100%;
+
+}
+h1{
+    font-weight: bolder;
+    margin-top: 15px;
+}
